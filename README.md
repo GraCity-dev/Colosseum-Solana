@@ -45,3 +45,7 @@ We believe **impact data should be public, verifiable, and rewarded.**
 git clone https://github.com/GraCity-dev/Colosseum-Solana.git
 cd Colosseum-Solana
 
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
