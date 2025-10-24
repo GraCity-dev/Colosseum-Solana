@@ -41,7 +41,7 @@ We believe **impact data should be public, verifiable, and rewarded.**
 ## 🚀 **How to Run**
 
 ### 1️⃣ Clone this repository
-```bash
+bash
 git clone https://github.com/GraCity-dev/Colosseum-Solana.git
 cd Colosseum-Solana
 
