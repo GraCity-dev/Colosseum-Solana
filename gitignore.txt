@@ -1,0 +1,102 @@
+# ----------------------------------
+# 🌿 Colosseum-Solana Project .gitignore
+# Frontend (React + Vite) + Solana (Anchor) + Node.js
+# ----------------------------------
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage and test outputs
+lib-cov
+coverage
+*.lcov
+.nyc_output
+
+# Build and dist folders
+dist/
+build/
+out/
+.cache/
+.parcel-cache/
+.nuxt/
+.next/
+.vuepress/dist/
+.vitepress/dist/
+.svelte-kit/
+.webpack/
+
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+web_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Lint and cache
+.eslintcache
+.stylelintcache
+
+# VSCode and local settings
+.vscode/
+.idea/
+.vscode-test
+
+# Yarn and npm artifacts
+.yarn-integrity
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Output of npm pack
+*.tgz
+
+# ----------------------------------
+# 🪙 Solana / Anchor specific ignores
+# ----------------------------------
+target/
+.anchor/
+**/target/
+.mpl-cache/
+keys/
+*.json.keypair
+program-keypair.json
+*.so
+
+# ----------------------------------
+# 🧱 Project specific
+# ----------------------------------
+# Ignore files that are auto-generated during build
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
