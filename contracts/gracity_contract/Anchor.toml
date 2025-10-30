@@ -1,0 +1,23 @@
+# ========================================
+# 🌿 GraCity Solana Impact DApp
+# Anchor configuration file
+# ========================================
+
+[toolchain]
+anchor_version = "0.32.1"       # 💚 usa tu versión real de Anchor
+solana_version = "1.16.27"      # 💚 coincide con tu CLI instalada
+
+[programs.testnet]
+gracity_contract = "H6GYm5iXdT5sA3mhnr8fnGugSxJ3c96mPFpPcDjQJU6m"
+# ↑ se reemplazará automáticamente por el ID real cuando deployes
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "https://api.testnet.solana.com"
+wallet = "C:\\SolanaWallet\\id.json"
+# 👆 doble barra para compatibilidad con Windows
+
+[scripts]
+test = "yarn run mocha -t 1000000 tests/"
