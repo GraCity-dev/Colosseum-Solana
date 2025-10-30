@@ -81,8 +81,16 @@ MIT License © 2025 GraCity.org
 ---
 
 ## 🌐 Learn More
-🔗 [https://app.gracity.org](https://app.gracity.org)  
-🌍 [https://gracity.org](https://gracity.org)
+
+| 🌿 Platform | 🔗 Link |
+|-------------|---------|
+| **GraCity DApp — with the new subtle “Connect Wallet” button 💫** | [app.gracity.org](https://app.gracity.org) |
+| **Official Website** | [gracity.org](https://gracity.org) |
+| **Development Preview (Netlify Build)** | [gracity.netlify.app](https://gracity.netlify.app) |
+
+✨ *Explore the updated GraCity DApp — featuring an elegant hero section with a smooth background and a subtle, animated “Connect Wallet” button powered by Solana.*
+
+
 
 ---
 
