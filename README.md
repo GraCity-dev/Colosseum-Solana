@@ -94,21 +94,29 @@ MIT License © 2025 GraCity.org
 
 ---
 
-#### 📈 3. “Architecture Diagram”
-Menciona que tienes un diagrama (lo puedes subir luego en `/docs/architecture.png`):
-```markdown
-## 🧩 Architecture
+---
+
+## 🧩 Architecture Diagram
+
 The system connects:
-**Frontend (React)** → **Smart Contract (Anchor on Solana)** → **Wallet (Phantom)** → **ESG Data Source (IoT or API)**
+
+**Frontend (React/Vite)**  
+⬇️  
+**Smart Contract (Anchor on Solana Testnet)**  
+⬇️  
+**Wallet (Phantom / Solflare)**  
+⬇️  
+**ESG Data Source (IoT sensors & APIs – AirGradient, Plantae)**  
+
+📊 *Diagram available at:* `/docs/architecture.png`
+
 ---
-🧠 Team & Credits
 
-Lead Developer: Miguel Ángel Gumiel Urosa -CTO
-Collaborators:
+## 🧠 Team & Credits
 
-Yajaira Thibisay Martínez Jaimes — CEO
+👨‍💻 **Lead Developer:** Miguel Ángel Gumiel Urosa — CTO  
+👩‍💼 **CEO:** Yajaira Thibisay Martínez Jaimes  
+🔧 **IoT Strategy:** Ángel David García Barrio  
 
-Ángel David García Barrio — IoT Strategy
+**Built with:** 🪙 Solana • ⚓ Anchor • ⚛️ React • ⚡ Vite • 🤖 AI • 🌱 IoT Integration
 
-Built with: Solana • Anchor • React • Vite • AI • IoT Integration
----
