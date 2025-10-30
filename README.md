@@ -83,3 +83,13 @@ MIT License © 2025 GraCity.org
 ## 🌐 Learn More
 🔗 [https://app.gracity.org](https://app.gracity.org)  
 🌍 [https://gracity.org](https://gracity.org)
+
+---
+
+#### 📈 3. “Architecture Diagram”
+Menciona que tienes un diagrama (lo puedes subir luego en `/docs/architecture.png`):
+```markdown
+## 🧩 Architecture
+The system connects:
+**Frontend (React)** → **Smart Contract (Anchor on Solana)** → **Wallet (Phantom)** → **ESG Data Source (IoT or API)**
+
