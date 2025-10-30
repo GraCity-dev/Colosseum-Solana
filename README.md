@@ -100,4 +100,15 @@ Menciona que tienes un diagrama (lo puedes subir luego en `/docs/architecture.pn
 ## 🧩 Architecture
 The system connects:
 **Frontend (React)** → **Smart Contract (Anchor on Solana)** → **Wallet (Phantom)** → **ESG Data Source (IoT or API)**
+---
+🧠 Team & Credits
 
+Lead Developer: Miguel Ángel Gumiel Urosa -CTO
+Collaborators:
+
+Yajaira Thibisay Martínez Jaimes — CEO
+
+Ángel David García Barrio — IoT Strategy
+
+Built with: Solana • Anchor • React • Vite • AI • IoT Integration
+---
